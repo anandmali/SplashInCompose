@@ -1,4 +1,4 @@
-package com.yml.splashcompose
+package com.anandmali.splashcompose
 
 import org.junit.Test
 

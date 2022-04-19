@@ -1,4 +1,4 @@
-package com.yml.splashcompose.ui.theme
+package com.anandmali.splashcompose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.yml.splashcompose
+package com.anandmali.splashcompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
-import com.yml.splashcompose.ui.theme.SplashComposeTheme
+import com.anandmali.splashcompose.ui.theme.SplashComposeTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
