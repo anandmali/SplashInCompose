@@ -28,6 +28,8 @@ class MainActivity : ComponentActivity() {
             }
         }
 
+        mainViewModel.delayForSplashScreen()
+
         setContent {
             SplashComposeTheme {
                 // A surface container using the 'background' color from the theme
